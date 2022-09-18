@@ -1,0 +1,62 @@
+
+RewriteEngine on
+
+RewriteCond %{HTTPS} http [OR]
+RewriteCond %{HTTP_HOST} !^www\.
+RewriteRule ^ http://www.innovativecompany.com/%{REQUEST_URI} [NE,L,R]
+
+
+Redirect 301 /de-icing.php /premium-liquid-de-icers.php
+Redirect 301 /dust-control.php /pro-guard.php
+Redirect 301 /asphalt-maintenance.php /pro-patch.php
+Redirect 301 /specialty-solutions.php /solutions.php
+Redirect 301 /products/winter/packaged-bulk/ice-melt-magic-salt /packaged-ice-melters.php
+Redirect 301 /company.php /innovative-story.php
+Redirect 301 /facilities.php /terminals-and-distribution.php
+Redirect 301 /distributor-canada.php /faq.php
+Redirect 301 /distributor-us.php /distributor.php
+Redirect 301 /resources.php /distributor.php
+Redirect 301 /resources.php /distributor.php
+Redirect 301 /resources.php /faq.php
+Redirect 301 /marketing-material.php /faq.php
+Redirect 301 /pro-melt-landing.php /packaged-ice-melters.php
+Redirect 301 /pro-melt.php /packaged-ice-melters.php
+Redirect 301 /pro-guard.php /dust-control-solutions.php
+Redirect 301 /blog /index.php
+Redirect 301 /blog/category/press-releases /index.php
+Redirect 301 /blog/economics-environment-can-they-work-in-snow /index.php
+Redirect 301 /blog/marketing-material /index.php
+Redirect 301 /blog/news-events /index.php
+Redirect 301 /blog/rock-salt-makeover /index.php
+Redirect 301 /blog/strategies-to-save-you-money /index.php
+Redirect 301 /m /index.php
+Redirect 301 /m/external-links.php /index.php
+Redirect 301 /main.html /index.php
+Redirect 301 /news.php /index.php
+Redirect 301 /mobile /index.php
+Redirect 301 /dust-control-products.php /dust-control-solutions.php
+Redirect 301 /userfiles/file/Literature%202013/CALIBER%20M2000%20Literature.pdf /premium-liquid-de-icers.php
+Redirect 301 /userfiles/file/Literature%202013/Magic-0%20Literature.pdf /premium-liquid-de-icers.php
+Redirect 301 /userfiles/file/Literature%202013/MeltDown%20Literature.pdf /premium-liquid-de-icers.php
+Redirect 301 /userfiles/file/Literature%202013/ProPatch%20Literature%20(1).pdf /premium-liquid-de-icers.php
+Redirect 301 /userfiles/file/sell_sheets/Caliber_M1000_Brochure.pdf /premium-liquid-de-icers.php
+Redirect 301 /userfiles/file/sell_sheets/MAG_for_Dust.pdf /premium-liquid-de-icers.php
+Redirect 301 /userfiles/file/sell_sheets/MAG_Winter_SellSheet.pdf /premium-liquid-de-icers.php
+Redirect 301 /userfiles/file/sell_sheets/MagicSalt_SellSheet.pdf /premium-liquid-de-icers.php
+Redirect 301 /userfiles/file/sell_sheets/MeltDown_Literature.pdf /premium-liquid-de-icers.php
+Redirect 301 /userfiles/file/sell_sheets/ProMelt%20Slicer%20Enhanced /premium-liquid-de-icers.php
+Redirect 301 /userfiles/file/sell_sheets/ProMelt%20Slicer%20Extreme% /premium-liquid-de-icers.php
+Redirect 301 /userfiles/file/sell_sheets/ProMelt%20Slicer_Literature /premium-liquid-de-icers.php
+Redirect 301 /userfiles/file/sell_sheets/RoadSaver%20Literature.pdf /premium-liquid-de-icers.php
+Redirect 301 /press-releases/ISS_Field_Trial_Data_Press_Release.pdf /agricultural-sol.php
+Redirect 301 /documents/N.pdf /agricultural-sol.php
+Redirect 301 /documents/Foliar.pdf /agricultural-sol.php
+Redirect 301 /documents/Wheat_Results.pdf /agricultural-sol.php
+Redirect 301 /documents/Soybeans_Results.pdf /agricultural-sol.php
+Redirect 301 /documents/Corn_results.pdf /agricultural-sol.php
+Redirect 301 /documents/Potatoes_Results.pdf /agricultural-sol.php
+Redirect 301 /documents/Organic.pdf /agricultural-sol.php
+Redirect 301 /dust-control-products.php /dust-control-solutions.php
+Redirect 301 /magnesium-chloride-fertilizer.php /index.php
+Redirect 301 /pro-guard-magnesium.php /magnesium-chloride-dust-control.php
+Redirect 301 /ads.txt /index.php

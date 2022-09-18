@@ -333,9 +333,7 @@
     </footer>
 
 
-    <script src="./ui/js/jquery-3.6.0.min.js"></script>
-    <script src="./ui/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
-    <script src="./ui/js/core.js"></script>
+    
 </body>
 
 </html>

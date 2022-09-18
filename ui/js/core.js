@@ -2,6 +2,17 @@ jQuery(document).ready(function($) {
 
     $("#year").text((new Date).getFullYear());
 
+    $(window).on('load', function() {});
+    var num = 0; //number of pixels before modifying styles
+
+    $(window).bind('scroll', function() {
+        if ($(window).scrollTop() > num) {
+            $('.inn__main-header').addClass('fixed');
+        } else {
+            $('.inn__main-header').removeClass('fixed');
+        }
+    });
+
     //Back to Top
 
 
@@ -19,7 +30,7 @@ jQuery(document).ready(function($) {
             oldAndroid = false;
 
 
-        $('body').append('<a href="#" id="' + settings.button.substring(1) + '" title="' + settings.text + '">' + settings.text + '</a>');
+        $('body').append('<span id="' + settings.button.substring(1) + '">' + settings.text + '</span>');
 
         $(settings.button).on('click', function(e) {
                 $('html, body').animate({ scrollTop: 0 }, settings.scrollSpeed);
