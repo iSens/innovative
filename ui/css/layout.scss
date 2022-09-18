@@ -1,0 +1,163 @@
+@media (min-width: 992px) and (max-width: 1059px) {
+    .navbar-light .navbar-nav .nav-link {
+        font-size: .875rem;
+    }
+}
+
+@media (max-width: 820px) {
+    .navbar-light .navbar-nav .nav-link,
+    .navbar-light .navbar-nav .nav-link:hover {
+        color: #fff
+    }
+    .navbar-light .navbar-nav .nav-link.inn__header-contactUs {
+        color: #007c85;
+    }
+    .navbar-collapse {
+        margin: 0 -1em;
+    }
+    .inn__header {
+        &-menuHeader {
+            color: #fff !important;
+        }
+        &-contactUs {
+            margin: 1em auto;
+            width: 250px;
+            border: 1px solid;
+            text-align: center;
+            background: #fff;
+            color: #007c85 !important;
+        }
+        &-menu {
+            background-color: #007c85;
+            color: #fff;
+            font-size: .875rem;
+            padding: 1em 2em;
+            .nav-link {
+                color: #fff;
+                border-bottom: 1px solid #fff;
+            }
+            .dropdown-toggle::after {
+                color: #fff !important;
+                position: absolute;
+                right: 15px;
+            }
+            .dropdown-toggle.show::after {
+                -webkit-transform: rotateX(180deg);
+                transform: rotateX(180deg);
+            }
+            .dropdown-menu {
+                padding: 1em;
+                background: transparent;
+                border: 0;
+                text-align: center;
+                .dropdown-item {
+                    color: #fff;
+                }
+            }
+        }
+    }
+    .inn__main {
+        &-visionMission {
+            .col {
+                border-right: none;
+                border-bottom: 1px solid #dee2e6
+            }
+        }
+        &-imgVideo {
+            margin: 0;
+        }
+        &-productMenu {
+            width: 100%
+        }
+        &-checks {
+            margin: 1em;
+        }
+        &-allProducts {
+            padding: 2em 0;
+            .col-form-label {
+                margin: 0;
+            }
+        }
+    }
+}
+
+@media (max-width: 599px) {
+    .container-xl {
+        padding: 0;
+    }
+    .form-submit-reset,
+    button.form-submit-reset:not([class*="simple_"]) {
+        max-width: 100% !important;
+        margin: 1em 0 0 0;
+    }
+    .inn__header {
+        &-breadcrumb {
+            display: none;
+        }
+        &-banner {
+            span {
+                font-size: 2rem;
+                margin: 1em 0;
+                line-height: 3.5rem;
+            }
+        }
+        &-desktop {
+            background: none;
+        }
+        &-mobile {
+            background: url(../images/599-banner.jpg);
+            height: 430px;
+        }
+    }
+    .inn__main {
+        &-view {
+            margin: 1em;
+        }
+        &-imgVideo {
+            margin: 0;
+        }
+        &-title {
+            font-size: 2rem;
+        }
+        &-green {
+            padding: 2em 1em;
+        }
+        &-stories .card {
+            margin: 1em 0;
+        }
+        &-quote {
+            margin: 1em 0 0;
+        }
+        &-arrow {
+            display: none !important;
+        }
+        &-checks {
+            span {
+                width: 100%;
+                display: inline-block;
+            }
+        }
+        &-greenPacific {
+            img {
+                text-align: center;
+                width: 100%;
+                height: auto;
+            }
+        }
+        &-visionMission {
+            .col {
+                flex: auto;
+                width: 100%;
+            }
+        }
+        &-dealersTab {
+            .nav-item {
+                .nav-link {
+                    span {
+                        display: none;
+                    }
+                }
+            }
+        }
+    }
+}

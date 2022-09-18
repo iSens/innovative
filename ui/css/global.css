@@ -3,6 +3,18 @@ html {
   font-family: 'Inter', sans-serif;
 }
 
+html,
+body {
+  overflow-x: hidden;
+}
+
+*,
+::before,
+::after {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
 body {
   padding-top: 0;
   font-family: 'Inter', sans-serif;
@@ -10,6 +22,7 @@ body {
   font-size: 100%;
   line-height: 1.875em;
   color: #222;
+  position: relative;
 }
 
 .btn:focus,
@@ -47,9 +60,31 @@ a:active,
   padding: 0.5rem 2rem;
 }
 
+.btn-lg {
+  font-size: 1rem;
+}
+
 .page-item.active .page-link {
   background-color: #176494;
   border-color: #176494;
+}
+
+.navbar-light .navbar-toggler {
+  color: #777;
+  border-color: transparent;
+}
+
+.bg-gray {
+  background-color: #f5f5f5;
+}
+
+.card-title {
+  font-size: 1.25rem;
+}
+
+.check {
+  position: relative;
+  top: 40%;
 }
 
 .page-link:hover,
@@ -82,8 +117,57 @@ a:active,
   border-bottom-right-radius: 0.25em;
 }
 
+.accordion-button:not(.collapsed)::after,
+.accordion-button::after {
+  background-image: none !important;
+}
+
+.accordion-item {
+  background-color: #fff;
+  border: solid #c7c7c7;
+  border-width: 0 0 1px 0;
+}
+
+.accordion-button:not(.collapsed) {
+  color: #000;
+  background-color: #fff;
+  -webkit-box-shadow: none;
+          box-shadow: none;
+}
+
+.accordion-button:not(.collapsed)::before {
+  background: url(../images/collapse-icon.svg) no-repeat;
+  color: #176494;
+}
+
+.accordion-button::before {
+  -ms-flex-negative: 0;
+      flex-shrink: 0;
+  width: 1.5rem;
+  height: 1.5rem;
+  margin: 0 1em 0 0;
+  content: "";
+  color: #176494;
+  background: url(../images/expand-icon.svg) no-repeat;
+  background-size: 1.25rem;
+  -webkit-transition: -webkit-transform .2s ease-in-out;
+  transition: -webkit-transform .2s ease-in-out;
+  transition: transform .2s ease-in-out;
+  transition: transform .2s ease-in-out, -webkit-transform .2s ease-in-out;
+}
+
 .navbar-light .navbar-nav .nav-link {
-  color: rgba(0, 0, 0, 0.8);
+  color: #222;
+  font-weight: 400;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+  background-color: #007c85;
+}
+
+.navbar-light .navbar-nav .nav-link.inn__header-contactUs {
+  color: #007c85;
 }
 
 .navbar-toggler-icon {
@@ -113,6 +197,7 @@ a:active,
   right: 20px;
   width: 45px;
   z-index: 100;
+  font-size: 1rem;
 }
 
 #back-to-top:hover,
@@ -138,6 +223,101 @@ a:active,
   border-color: #007c85;
 }
 
+.pet:before {
+  color: #0076b4;
+  content: "\f1b0";
+  font-family: "FontAwesome";
+  font-size: 1.55em;
+  padding: 2px 4px;
+  margin: 0 5px 0 0;
+}
+
+.blue-bg {
+  background-color: #0072A3 !important;
+  color: #fff;
+  font-weight: bold;
+  padding: 10px 20px;
+}
+
+.fixed {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+  background-color: #fff;
+}
+
+.inn__main-mainTab .nav-link {
+  color: #777;
+}
+
+.inn__main-mainTab .nav-link img {
+  margin: 0 10px 0 0;
+  -webkit-filter: grayscale(100%);
+}
+
+.inn__main-mainTab .nav-link.active img {
+  margin: 0 10px 0 0;
+  -webkit-filter: grayscale(0%) !important;
+}
+
+.inn__main-mainTab .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: #007c85;
+  background-color: #fff;
+  border-color: #fff #fff #007c85;
+  border-width: 2px;
+  text-transform: uppercase;
+}
+
+.inn__main-mainTab.nav-tabs .nav-link:focus,
+.inn__main-mainTab.nav-tabs .nav-link:hover {
+  border-color: #fff #fff #fff;
+}
+
+.inn__main-dealersTab.nav-tabs {
+  margin: 3em auto;
+  font-size: .875rem;
+  border: none;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.inn__main-dealersTab .nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+  color: #fff;
+  background-color: #007c85;
+  border-color: #007c85;
+  border-width: 1px;
+  text-transform: none;
+  border-radius: unset;
+}
+
+.inn__main-dealersTab .nav-item {
+  border: 1px solid #007c85;
+}
+
+.inn__main-dealersTab .nav-item:last-of-type {
+  border-radius: 0 4px 4px 0;
+}
+
+.inn__main-dealersTab .nav-item:first-of-type {
+  border-radius: 4px 0 0 4px;
+}
+
+.inn__main-dealersTab .nav-link {
+  color: #007c85;
+}
+
+.inn__main-dealersTab.nav-tabs .nav-link:focus,
+.inn__main-dealersTab.nav-tabs .nav-link:hover {
+  border-color: transparent;
+}
+
 .inn__header-top {
   width: 100%;
   background-color: #007c85;
@@ -152,13 +332,12 @@ a:active,
 }
 
 .inn__header-breadcrumb {
-  border-top: 1px solid #c7c7c7;
   padding: 2em 1em 0;
 }
 
 .inn__header-breadcrumb .breadcrumb-item {
   text-transform: uppercase;
-  font-size: .875rem;
+  font-size: .688rem;
 }
 
 .inn__header-breadcrumb .breadcrumb-item a {
@@ -173,22 +352,25 @@ a:active,
 
 .inn__header-mainView {
   padding: 1em 0 0;
-}
-
-.inn__header-banner {
-  height: 400px;
+  border-bottom: 1px solid #c7c7c7;
 }
 
 .inn__header-banner span {
   font-size: 3rem;
   font-weight: 600;
   display: block;
-  margin: 3em 0;
+  margin: 3em;
+  line-height: 4.5rem;
+}
+
+.inn__header-desktop {
+  height: 430px;
+  background: url(../images/banner-image-lg.webp);
 }
 
 .inn__header-menuHeader {
   font-weight: 600;
-  color: #007c85 !important;
+  color: #007c85;
   margin: 0 0 0 -1em;
 }
 
@@ -232,11 +414,11 @@ a:active,
   margin: 0 2em;
   border: 1px solid #007c85;
   border-radius: 4px;
-  color: #007c85 !important;
+  color: #007c85;
 }
 
 .inn__footer {
-  background-color: #3f3f3f;
+  background-color: #333333;
   margin: 2em 0 0 0;
   padding: 2em 0 0 0;
   color: #fff;
@@ -252,6 +434,11 @@ a:active,
   color: #ebb22d;
 }
 
+.inn__footer-flag {
+  font-size: .875rem;
+  margin: 0 0 0 .5em;
+}
+
 .inn__footer-flag img {
   margin: 0 5px 5px 0;
 }
@@ -259,11 +446,11 @@ a:active,
 .inn__footer-copyright {
   border-top: 1px solid #888;
   padding: 1em 2em 0;
-  color: #999999;
+  color: #fff;
 }
 
 .inn__footer-copyright a {
-  color: #999999;
+  color: #fff;
   text-decoration: underline;
 }
 
@@ -286,10 +473,191 @@ a:active,
   margin: 1em 0;
 }
 
-.inn__main-text {
+.inn__main-subTitle {
+  font-size: 2rem;
+  font-weight: 300;
+}
+
+.inn__main-pdfBtn {
+  color: #007c85;
+  border-color: #007c85;
+  margin: 0 .5em 0 0;
+}
+
+.inn__main-pdfBtn i {
+  padding: 0 10px 0 0;
+  color: red;
+}
+
+.inn__main-dealers {
+  margin: 0 0 2em;
+}
+
+.inn__main-dealers h3 {
+  font-size: 1.375rem;
+}
+
+.inn__main-dealers i::before {
+  color: #007c85 !important;
+}
+
+.inn__main-checkMobile span {
+  font-weight: bold;
+  display: inline-block;
+  width: 100%;
+  position: relative;
+}
+
+.inn__main-checkMobile span i {
+  font-style: normal;
+  position: absolute;
+  right: 2em;
+}
+
+.inn__main-asterisk {
+  right: 1em !important;
+}
+
+.inn__main-greenMsg {
+  border: 1px solid #d0e49d;
+  background-color: #f5fce4;
+  margin: 2em 0 0;
+  padding: 1em;
+  line-height: 1.75rem;
+}
+
+.inn__main-greenMsg img {
+  margin: 0 1em 0 0;
+}
+
+.inn__main-checks {
+  margin: 1em 0;
+}
+
+.inn__main-checks span {
+  margin: 0 2em 0 0;
+}
+
+.inn__main-checks span img {
+  margin: 0 1em 0 0;
+}
+
+.inn__main-external {
+  color: #007c85;
+  border-color: #007c85;
+  margin: 3em 0 2em;
+}
+
+.inn__main-external i {
+  padding: 0 0 0 10px;
+  color: #007c85;
+}
+
+.inn__main-pdfBtn:hover, .inn__main-external:hover {
+  color: #fff;
+  background-color: #007c85;
+  border-color: #007c85;
+}
+
+.inn__main-pdfBtn:hover i, .inn__main-external:hover i {
+  color: #fff;
+}
+
+.inn__main-case {
+  min-height: 480px;
+  margin: 0 0 1em;
+}
+
+.inn__main-case h3 {
+  font-size: 1.5rem;
+}
+
+.inn__main-webinars {
+  min-height: 700px;
+  position: relative;
+  margin: 0 0 2em;
+}
+
+.inn__main-webinars h3 {
+  font-size: 1.5rem;
+}
+
+.inn__main-webinars a {
+  position: absolute;
+  bottom: 15px;
+}
+
+.inn__main-quote {
+  margin: 0 0 0 1em;
+}
+
+.inn__main-text,
+.inn__main li {
   color: #222;
-  font-size: 1.125rem;
-  line-height: 2em;
+  font-size: 1rem;
+  line-height: 1.75em;
+}
+
+.inn__main-spec {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 1em 2em 0 2em;
+  margin: 0 0 1em;
+}
+
+.inn__main-spec .card {
+  background-color: transparent;
+}
+
+.inn__main-contactInfo {
+  margin: 2em 0;
+  padding: 2em;
+  color: #fff;
+  font-size: 1.375rem;
+  background-color: #007C85;
+}
+
+.inn__main-greenPacific {
+  margin: 0 0 4em 0;
+  padding: 0 2em 2em;
+  background-color: #e5f1f2;
+  color: #144ea4;
+  font-size: 1rem;
+  line-height: 1.75rem;
+}
+
+.inn__main-greenPacific p:first-child {
+  font-size: 1.375rem;
+}
+
+.inn__main-visionMission {
+  background-color: #f5f5f5;
+  padding: 3em 2em 2em;
+  min-height: 210px;
+}
+
+.inn__main-visionMission h4 {
+  color: #007c85;
+}
+
+.inn__main-visionMission .col {
+  border-right: 1px solid #dee2e6;
+}
+
+.inn__main-visionMission .col:nth-child(5) {
+  border-right: none;
+  border-bottom: none;
+}
+
+.inn__main-greenImg {
+  max-width: 632px;
+  height: auto;
+  width: 100%;
+}
+
+.inn__main-pacificImg {
+  width: 468px;
+  height: 101px;
+  margin: 0 0 1em;
 }
 
 .inn__main-view {
@@ -303,6 +671,11 @@ a:active,
 
 .inn__main-landingImg {
   width: 100%;
+  max-width: 620px;
+}
+
+.inn__main-smallText {
+  font-size: .75rem;
 }
 
 .inn__main-arrow {
@@ -318,25 +691,13 @@ a:active,
   margin: 3em 0;
 }
 
-.inn__main-productMenu {
-  margin: 0 auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: horizontal;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
-  width: 50%;
-}
-
-.inn__main-productMenu .col-form-label {
+.inn__main-allProducts .col-form-label {
   font-size: 1.5rem;
   color: #222;
   margin: 0 1em 0 0;
 }
 
-.inn__main-productMenu .dropdown {
+.inn__main-allProducts .dropdown {
   margin: 5px 0 0 0;
 }
 
