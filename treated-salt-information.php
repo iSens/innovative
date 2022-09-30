@@ -14,13 +14,13 @@
     <meta property="og:title" content="Treated Salt Information " />
     <meta property="og:image" content="https://www.innovativecompany.com/ui/images/green-image@2x.webp" />
     <meta property="og:description" content="Products and services erroneously labelled environmentally friendly have resulted in nothing more than green fatigue. We believe that true environmental sustainability is linked to sound economic stewardship and is dependant on the following" />
-    <meta property="og:url" content="https://www.innovativecompany.com/green-commitment.php" />
+    <meta property="og:url" content="https://www.innovativecompany.com/treated-salt-information.php" />
 
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:site" content="@Innovativecomp" />
     <meta property="twitter:creator" content="@Innovativecomp" />
 
-    <link rel="canonical" href="https://www.innovativecompany.com/green-commitment.php" />
+    <link rel="canonical" href="https://www.innovativecompany.com/treated-salt-information.php" />
     <link rel="icon" href="./ui/icons/favicon.ico" type="image/x-icon" />
 
 
@@ -54,18 +54,18 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Treated Salt Information </h2>
+        <h1 class="inn__main-title mx-4">Treated Salt Information </h1>
         
         <div class="row mx-4">
             <div class="col mb-5">
-            <h3 class="inn__main-subTitle mb-3">An Ice Melting Game Changer</h3>
+            <h2 class="inn__main-subTitle mb-3">An Ice Melting Game Changer</h2>
                 <img src="./ui/images/bottles-img@2x.webp" alt="Organic Based Performance Enhanced liquids" class="mx-3 float-end inn__main-greenImg" />
                 <p>Type 2 treated salt is rock salt that has been fully encapsulated with OBPE liquids. OBPE or Organic Based Performance Enhanced liquids are created to strict specifications and are comprised of a refined carbohydrate source blended with premium magnesium or calcium chloride and if required a colorant. These premium liquids are designed for instant melting results, reduced corrosion impact, working at lower temperatures, and offer lasting residual effectiveness.</p>
             </div>
         </div>
         <div class="row mx-4">
             <div class="col mb-5"><img src="./ui/images/treated-salt-graphic.svg" alt="type 2 treated salt" class="mx-3 float-end inn__main-greenImg" />
-            <h3 class="inn__main-subTitle mb-3">Why Purchase a Ready-Made Type 2 Treated Salt?</h3>
+            <h2 class="inn__main-subTitle mb-3">Why Purchase a Ready-Made Type 2 Treated Salt?</h2>
                 
                 <p>Created with premium OBPE de-icing liquids, type 2 treated salt is fully encapsulated so you can get the power of liquids without costly changes to your application equipment.</p>
                 <ul>

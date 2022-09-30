@@ -55,7 +55,7 @@
     </div>
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">ProMelt Plus 20™ - Stockpile Treatment Liquid</h2>
+        <h1 class="inn__main-title mx-4">ProMelt Plus 20™ - Stockpile Treatment Liquid</h1>
 
         <div class="card mb-3 border-0">
             <div class="row mx-3 g-0">
@@ -78,7 +78,7 @@
 
         <hr class="dropdown-divider">
         <div class="mx-4 my-5 ">
-            <h3 class="inn__main-subTitle">Features and Benefits</h3>
+            <h2 class="inn__main-subTitle">Features and Benefits</h2>
 
             <p>Pretreating your stockpile with ProMelt Plus 20™ will give you the power of high performance liquids without costly equipment changes.</p>
             <ul>
@@ -142,7 +142,7 @@
         </div>
 
         <div class="inn__main-spec ">
-            <h3 class="inn__main-subTitle ">Typical Product Application Rates<sup>*</sup></h3>
+            <h2 class="inn__main-subTitle ">Typical Product Application Rates<sup>*</sup></h2>
             <p>ProMelt Plus 20™ is specifically designed for pre-wetting of solids. Typical liquid application guidelines are:</p>
             <div class="row">
                 <div class="col-lg-6">
@@ -154,7 +154,7 @@
                             </div>
                             <div class="col-md-10">
                                 <div class="card-body">
-                                    <h5 class="card-title">Salt Stockpile Treatment</h5>
+                                    <h3 class="card-title">Salt Stockpile Treatment</h3>
                                     <p class="card-text">Apply 22-29 litres per metric ton of salt. The moisture content of the salt will determine the amount of liquid to apply.</p>
                                 </div>
                             </div>

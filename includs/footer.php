@@ -2,7 +2,7 @@
         <div class="container p-4">
             <div class="row ">
                 <div class="col-md-5 p-0">
-                    <h4 class="inn__footer-flag"><img src="./ui/images/can-flag.svg" alt="">Canadian Head Office</h4>
+                    <p class="inn__footer-flag"><img src="./ui/images/can-flag.svg" alt="">Canadian Head Office</p>
                     <div class="d-flex flex-row mb-3 justify-content-between">
                         <div class="p-2">
                             <p>
@@ -29,7 +29,7 @@
                     <span id="mydiv" class="inn__footer-divider"></span>
                 </div>
                 <div class="col-md-5 p-0">
-                    <h4 class="inn__footer-flag"><img src="./ui/images/us-flag.svg" alt="">U.S. Head Office</h4>
+                    <p class="inn__footer-flag"><img src="./ui/images/us-flag.svg" alt="">U.S. Head Office</p>
                     <div class="d-flex flex-row mb-3 justify-content-between">
                         <div class="p-2">
                             <p>

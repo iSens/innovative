@@ -180,7 +180,7 @@
             <hr class="dropdown-divider">
 
             <div class="mx-4 my-5 ">
-                <h3 class="inn__main-subTitle">Colorado State University Study</h3>
+                <h2 class="inn__main-subTitle">Colorado State University Study</h2>
                 <p class="mt-2">A study conducted by Colorado State University on the “Relative Effectiveness of Road
                     Dust Suppressants” concluded
                     that a 42% reduction in total aggregate loss was achieved when unpaved roads were treated with

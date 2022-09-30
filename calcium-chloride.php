@@ -81,7 +81,7 @@
 
         <hr class="dropdown-divider">
         <div class="mx-4 my-5 ">
-            <h3 class="inn__main-subTitle">Calcium Chloride</h3>
+            <h2 class="inn__main-subTitle">Calcium Chloride</h2>
             <p>A complete listing of applications includes:</p>
 
             <ul>

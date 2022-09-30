@@ -53,7 +53,7 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Industrial Solutions</h2>
+        <h1 class="inn__main-title mx-4">Industrial Solutions</h1>
 
         <div class="row mx-4">
             <div class="col-lg-6 mb-5">
@@ -76,7 +76,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Magnesium chloride</h5>
+                                <h2 class="card-title">Magnesium chloride</h2>
                                 <p class="card-text">Magnesium chloride (MgCl<sub>2</sub>) is naturally occurring and can be harvested from lakes and shore deposits. Innovative’s magnesium chloride is FQ Fine Quality – a colourless to slightly yellowish liquid that is a versatile compound that has many advantages.</p>
                                 <p class="card-text"><a href="magnesium-chloride.php">Product info</a><i class="fa-solid fa-up-long inn__main-arrow"></i></p>
                             </div>
@@ -90,7 +90,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Calcium chloride</h5>
+                                <h2 class="card-title">Calcium chloride</h2>
                                 <p class="card-text">Calcium chloride (CaCl<sub>2</sub>) is the ionic compound of calcium and chlorine. It is a salt that behaves as a typical ionic halide, being solid at room temperature and highly soluble in water. Calcium chloride is hygroscopic in nature meaning it attracts moisture from the air and its surroundings.  </p>
                                 <p class="card-text"><a href="calcium-chloride.php">Product info</a><i class="fa-solid fa-up-long inn__main-arrow"></i></p>
                             </div>

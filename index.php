@@ -60,7 +60,7 @@
     <div class="container-xl">
         <div class="row inn__main-view align-items-center">
             <div class="col-lg-6">
-                <h2 class="inn__main-title">Innovative Surface Solutions</h2>
+                <h1 class="inn__main-title">Innovative Surface Solutions</h1>
                 <p class="inn__main-text">We specialize in effective, environmentally safer solutions for road safety
                     and maintenance, industrial applications and agriculture. For more than 35 years we have introduced
                     fresh thinking, innovative technology and new processes to enhance our products and ensure our

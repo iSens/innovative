@@ -54,7 +54,7 @@
 
 
     <div class="container-xl px-2">
-        <h2 class="inn__main-title mx-4">Distributors / Dealers</h2>
+        <h1 class="inn__main-title mx-4">Distributors / Dealers</h1>
 
         <ul class="inn__main-mainTab nav nav-tabs" id="dealers" role="tablist">
             <li class="nav-item" role="presentation">

@@ -56,8 +56,8 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">ProMelt Essential - Professional Ice Melter</h2>
-        <h3 class="inn__main-subTitle mx-4">Professional Ice Melter, Professional Performance</h3>
+        <h1 class="inn__main-title mx-4">ProMelt Essential - Professional Ice Melter</h1>
+        <h2 class="inn__main-subTitle mx-4">Professional Ice Melter, Professional Performance</h2>
         <div class="card mb-3 border-0">
             <div class="row mx-3 g-0">
                 <div class="col-md-2 justify-content-center text-center">

@@ -56,7 +56,7 @@
     </div>
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">ProPatch™ High Performance Asphalt Cold Patch</h2>
+        <h1 class="inn__main-title mx-4">ProPatch™ High Performance Asphalt Cold Patch</h1>
 
         <div class="card mb-3 border-0">
             <div class="row mx-3 g-0">
@@ -87,7 +87,7 @@
 
         <hr class="dropdown-divider">
         <div class="mx-4 my-5 ">
-            <h3 class="inn__main-subTitle">Features and Benefits</h3>
+            <h2 class="inn__main-subTitle">Features and Benefits</h2>
 
             <p>ProPatch® Cold Mix works in all weather conditions and no special equipment is required. ProPatch® Cold
                 Mix is designed to remain workable at sub-zero temperatures.</p>
@@ -150,7 +150,7 @@
         <hr class="dropdown-divider">
 
     
-        <h3 class="inn__main-subTitle mx-4 mt-4">Easy Application</h3>
+        <h2 class="inn__main-subTitle mx-4 mt-4">Easy Application</h2>
         <p class="mx-4">ProPatch® Cold Mix is quick and easy to apply using our simple P.A.C. approach.</p>
         <div class="card mb-3 border-0">
             <div class="row mx-3 g-0">

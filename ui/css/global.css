@@ -92,6 +92,11 @@ a:active,
   color: #176494;
 }
 
+a {
+  color: #0256D4;
+  text-decoration: underline;
+}
+
 .dropdown-item.active,
 .dropdown-item:active {
   background-color: #176494;
@@ -437,6 +442,7 @@ a:active,
 .inn__footer-flag {
   font-size: .875rem;
   margin: 0 0 0 .5em;
+  font-weight: 500;
 }
 
 .inn__footer-flag img {
@@ -635,8 +641,9 @@ a:active,
   min-height: 210px;
 }
 
-.inn__main-visionMission h4 {
+.inn__main-visionMission h3 {
   color: #007c85;
+  font-size: 1.5rem;
 }
 
 .inn__main-visionMission .col {

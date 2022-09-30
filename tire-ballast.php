@@ -55,7 +55,7 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Tire Ballast</h2>
+        <h1 class="inn__main-title mx-4">Tire Ballast</h1>
 
     </div>
     <div class="container-xl">
@@ -64,7 +64,7 @@
 
             <div class="card text-dark bg-light w-100 p-5 text-center mb-3">
                 <div class="card-body">
-                    <h5 class="card-title">Coming Soon</h5>
+                    <h2 class="card-title">Coming Soon</h2>
                     <p class="card-text">This page is under construction.</p>
                 </div>
             </div>

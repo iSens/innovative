@@ -55,7 +55,7 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Knowledge Nuggets</h2>
+        <h1 class="inn__main-title mx-4">Knowledge Nuggets</h1>
 
         <div class="row mx-4">
 

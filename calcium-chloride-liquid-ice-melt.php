@@ -55,7 +55,7 @@
     </div>
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">ProMelt Cal - Calcium Chloride Liquid Ice Melt</h2>
+        <h1 class="inn__main-title mx-4">ProMelt Cal - Calcium Chloride Liquid Ice Melt</h1>
 
         <div class="card mb-3 border-0">
             <div class="row mx-3 g-0">
@@ -77,7 +77,7 @@
 
         <hr class="dropdown-divider">
         <div class="mx-4 my-5 ">
-            <h3 class="inn__main-subTitle">Features and Benefits</h3>
+            <h2 class="inn__main-subTitle">Features and Benefits</h2>
 
             <p>ProMelt™ Cal is a premium liquid de-icer that is economical and an effective way to keep your roads safe.</p>
             <ul>
@@ -138,7 +138,7 @@
         
             
             <div class="inn__main-spec ">
-            <h3 class="inn__main-subTitle ">Typical Product Application Rates<sup>*</sup></h3>
+            <h2 class="inn__main-subTitle ">Typical Product Application Rates<sup>*</sup></h2>
             <p>ProMelt™ Cal is specifically designed for anti-icing, direct application de-icing, frost prevention and pre-wetting of solids. Typical liquid application guidelines are:</p>
             <div class="row">
                 <div class="col-lg-6">

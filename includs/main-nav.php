@@ -1,8 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light inn__header-mainView">
         <div class="container-xl">
-            <a href="./">
-                <h1 class="inn__header-logo"> Innovative Surface Solutions </h1>
-            </a>
+            <a href="./"  class="inn__header-logo"> Innovative Surface Solutions </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#innToggleMenu"
                 aria-controls="innToggleMenu" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>

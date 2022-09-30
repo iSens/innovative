@@ -54,7 +54,7 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Terminals and Distribution</h2>
+        <h1 class="inn__main-title mx-4">Terminals and Distribution</h1>
 
         <div class="row mx-4">
             <div class="col-lg-6 mb-3">
@@ -104,7 +104,7 @@
                 <img class="inn__main-landingImg" src="./ui/images/quality-control@2x.webp" alt="Quality Control and Quality Assurance">
             </div>
             <div class="col-md-6">
-            <h3 class="inn__main-subTitle mb-4">Quality Control and Quality Assurance</h3>
+            <h2 class="inn__main-subTitle mb-4">Quality Control and Quality Assurance</h2>
             <p class="inn__main-text">
                 Our customers count on us to provide them with the highest quality and most effective solutions on a consistent basis.
             </p>
@@ -122,7 +122,7 @@
         </div>
         <div class="row m-4">
             
-            <div class="col-md-4 mb-3"><img class="inn__main-landingImg" src="./ui/images/terminal-2@2x.webp" alt=""></div>
+            <div class="col-md-4 mb-3"><img class="inn__main-landingImg" src="./ui/images/terminal-2@2x.webp" alt="Innovative Surface Solutions distribution network"></div>
             <div class="col-md-4 mb-3"><img class="inn__main-landingImg" src="./ui/images/terminal-1@2x.webp" alt="Fully automated 24/7 loading system including 5 loadout racks"></div>
             <div class="col-md-4 mb-3"><img class="inn__main-landingImg" src="./ui/images/terminal-3@2x.webp" alt="Delivery capabilities by tanker, rail, barge and ship"></div>
         </div>

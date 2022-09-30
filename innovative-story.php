@@ -54,7 +54,7 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">The Innovative Story</h2>
+        <h1 class="inn__main-title mx-4">The Innovative Story</h1>
         
         <div class="row mx-4">
         <img src="./ui/images/image-strip@2x.webp" class="mb-5" alt="Innovative Surface Solutions Vision, Mission & Core Values">
@@ -69,24 +69,24 @@
             <hr class="dropdown-divider">
         </div>
         <div class="row m-4">
-            <h3 class="inn__main-subTitle mb-4">Vision, Mission & Core Values</h3>
+            <h2 class="inn__main-subTitle mb-4">Vision, Mission & Core Values</h2>
             <div class="col-md-6 p-0">
                 <div class="inn__main-visionMission me-0 me-sm-3">
-                    <h4>Vision</h4>
+                    <h3>Vision</h3>
                     <p>Make every road safer, every crop healthier and provide industry with value-added environmentally friendlier solutions.</p>
                 </div>
                 
             </div>
             <div class="col-md-6 p-0">
                 <div class="inn__main-visionMission">
-                    <h4>Mission</h4>
+                    <h3>Mission</h3>
                     <p>Provide our customers value-added, reliable and environmentally friendlier solutions for de-icing, dust control, industrial, and agriculture applications.</p>
                 </div>
                 
             </div>
         </div>
         <div class="inn__main-visionMission mx-4">
-        <h4>Core Values</h4>
+        <h3>Core Values</h3>
             <div class="row row-cols-1 row-cols-lg-5">
                 <div class="col ">
                     <p><strong>Customer Focused</strong></p>

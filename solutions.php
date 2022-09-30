@@ -51,11 +51,11 @@
 
     </div>
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Road Solutions</h2>
+        <h1 class="inn__main-title mx-4">Road Solutions</h1>
 
         <div class="row mx-4">
             <div class="col-lg-6 mb-5">
-                <h3 class="inn__main-subTitle">Liquid de-icers</h3>
+                <h2 class="inn__main-subTitle">Liquid de-icers</h2>
                 <p class="inn__main-text">Conquer winter with our line of premium ProMelt liquid de-icers. Get better
                     melting performance, keep more product on the road, reduce application rates and minimize
                     environmental impacts with our magnesium chloride and calcium chloride liquid de-icers. We provide
@@ -74,7 +74,7 @@
         <div class="row mx-4">
 
             <div class="col-lg-6 mb-5 order-lg-2">
-                <h3 class="inn__main-subTitle">Packaged Ice Melters</h3>
+                <h2 class="inn__main-subTitle">Packaged Ice Melters</h2>
                 <p class="inn__main-text">ProMelt packaged ice melters, including Magic Salt by ProMelt are designed for
                     use on sidewalks, entryways and parking areas where they quickly penetrate and melt snow and ice
                     fast.</p>
@@ -89,7 +89,7 @@
         <div class="row mx-4">
 
             <div class="col-lg-6 mb-5">
-                <h3 class="inn__main-subTitle">Dust Control Products</h3>
+                <h2 class="inn__main-subTitle">Dust Control Products</h2>
                 <p class="inn__main-text">ProGuard Mag and ProGuard Cal are high performance liquid dust control
                     products and soil stabilization agents to help eliminate the health risks and driving dangers of
                     dust on roadways, service roads, parking lots, cart paths, walkways, horse arenas, construction
@@ -111,7 +111,7 @@
         <div class="row mx-4">
 
             <div class="col-lg-6 mb-5 order-lg-2">
-                <h3 class="inn__main-subTitle">Asphalt Repair</h3>
+                <h2 class="inn__main-subTitle">Asphalt Repair</h2>
                 <p class="inn__main-text">Innovative’s ProPatch Cold Mix is a high performance asphalt patching material
                     designed to repair potholes, street edges, utility cuts and large cracks. ProPatch is workable down
                     to 14<sup>o</sup>F/-10<sup>o</sup>C for year round use and is a fast working asphalt cold patch solution that allows the

@@ -55,7 +55,7 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Video Library</h2>
+        <h1 class="inn__main-title mx-4">Video Library</h1>
 
         <div class="row mx-4">
             <div class="col-lg-6 mb-3">

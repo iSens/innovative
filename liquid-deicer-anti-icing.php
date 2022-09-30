@@ -55,7 +55,7 @@
     </div>
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">ProMelt Ultra 1000 - Long Lasting Premium Liquid De-icer, Anti-Icing</h2>
+        <h1 class="inn__main-title mx-4">ProMelt Ultra 1000 - Long Lasting Premium Liquid De-icer, Anti-Icing</h1>
 
         <div class="card mb-3 border-0">
             <div class="row mx-3 g-0">
@@ -77,7 +77,7 @@
 
         <hr class="dropdown-divider">
         <div class="mx-4 my-5 ">
-            <h3 class="inn__main-subTitle">Features and Benefits</h3>
+            <h2 class="inn__main-subTitle">Features and Benefits</h2>
 
             <p>ProMelt Ultra 1000 inhibited de-icer significantly improves the eutectic point and phase change properties of magnesium chloride. ProMelt Ultra inhibited has the extremely low eutectic point of approximately -65<sup>o</sup> C.</p>
             <ul>
@@ -143,7 +143,7 @@
         
             
             <div class="inn__main-spec ">
-            <h3 class="inn__main-subTitle ">Typical Product Application Rates<sup>*</sup></h3>
+            <h2 class="inn__main-subTitle ">Typical Product Application Rates<sup>*</sup></h2>
             <p>ProMelt Ultra 1000 inhibited is specifically designed for anti-icing, direct application de-icing, frost prevention and pre-wetting of solids. Typical application guidelines are:</p>
             <div class="row">
                 <div class="col-lg-6">

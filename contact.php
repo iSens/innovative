@@ -53,7 +53,7 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Contact</h2>
+        <h1 class="inn__main-title mx-4">Contact</h1>
 
     </div>
     <div class="container-xl">

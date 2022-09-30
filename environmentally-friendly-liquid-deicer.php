@@ -56,7 +56,7 @@
     </div>
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Magic-0 by ProMelt - Environmentally Friendly Liquid Deicer</h2>
+        <h1 class="inn__main-title mx-4">Magic-0 by ProMelt - Environmentally Friendly Liquid Deicer</h1>
 
         <div class="card mb-3 border-0">
             <div class="row mx-3 g-0">
@@ -78,7 +78,7 @@
 
         <hr class="dropdown-divider">
         <div class="mx-4 my-5 ">
-            <h3 class="inn__main-subTitle">Features and Benefits</h3>
+            <h2 class="inn__main-subTitle">Features and Benefits</h2>
 
             <p>ProMelt Magic-0 is a premium liquid de-icer that is economical and delivers superior performance in colder environments with a eutectic point of approximately -45<sup>o</sup>C/-49<sup>o</sup>F.</p>
             <ul>
@@ -142,7 +142,7 @@
         
             
             <div class="inn__main-spec ">
-            <h3 class="inn__main-subTitle ">Typical Product Application Rates<sup>*</sup></h3>
+            <h2 class="inn__main-subTitle ">Typical Product Application Rates<sup>*</sup></h2>
             <p>ProMelt Magic-0 is specifically designed for anti-icing, direct application de-icing, frost prevention and prewetting of solids. Typical liquid application guidelines are:</p>
             <div class="row">
                 <div class="col-lg-6">
@@ -154,7 +154,7 @@
                         </div>
                         <div class="col-md-10">
                             <div class="card-body">
-                                <h5 class="card-title">Anti-Icing</h5>
+                                <h3 class="card-title">Anti-Icing</h3>
                                 <p class="card-text">Application rates of 16 – 29 gallons per lane mile are typical. Up to 38 gallons per lane mile should be considered the maximum in any anti-icing situation.</p>
 
                             </div>
@@ -169,7 +169,7 @@
                         </div>
                         <div class="col-md-10">
                             <div class="card-body">
-                                <h5 class="card-title">Direct Liquid Application De-Icing</h5>
+                                <h3 class="card-title">Direct Liquid Application De-Icing</h3>
                                 <p class="card-text">Application rates of 38 - 42 gallons per lane mile.</p>
                             </div>
                         </div>
@@ -186,7 +186,7 @@
                         </div>
                         <div class="col-md-10">
                             <div class="card-body">
-                                <h5 class="card-title">Frost Prevention</h5>
+                                <h3 class="card-title">Frost Prevention</h3>
                                 <p class="card-text">Application rates of 8 – 17 gallons per lane mile are standard. These rates can vary depending on storm conditions and service level goals.</p>
 
                             </div>
@@ -201,7 +201,7 @@
                         </div>
                         <div class="col-md-10">
                             <div class="card-body">
-                                <h5 class="card-title">Pre-wetting</h5>
+                                <h3 class="card-title">Pre-wetting</h3>
                                 <p class="card-text">Application rates of 5-15 gallons per ton of substrate, depending upon the solid used and the performance objective.</p>
 
                             </div>

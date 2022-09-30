@@ -55,7 +55,7 @@
     </div>
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">ProMelt Ultra 2000 - Organic Based Performance Enhancer Stockpile Treatment Liquid </h2>
+        <h1 class="inn__main-title mx-4">ProMelt Ultra 2000 - Organic Based Performance Enhancer Stockpile Treatment Liquid </h1>
 
         <div class="card mb-3 border-0">
             <div class="row mx-3 g-0">
@@ -77,7 +77,7 @@
 
         <hr class="dropdown-divider">
         <div class="mx-4 my-5 ">
-            <h3 class="inn__main-subTitle">Features and Benefits</h3>
+            <h1 class="inn__main-subTitle">Features and Benefits</h1>
 
             <p>ProMelt Ultra 2000 inhibited de-icer significantly improves the eutectic point and phase change properties of magnesium chloride. ProMelt Ultra 2000 inhibited has the extremely low eutectic point of approximately -65<sup>o</sup>C/-85<sup>o</sup>F.</p>
             <ul>
@@ -144,7 +144,7 @@
         
             
             <div class="inn__main-spec ">
-            <h3 class="inn__main-subTitle ">Typical Product Application Rates<sup>*</sup></h3>
+            <h2 class="inn__main-subTitle ">Typical Product Application Rates<sup>*</sup></h2>
             <p>ProMelt Ultra 2000 inhibited is specifically designed for pre-wetting of solids. Typical liquid application guidelines are:</p>
             <div class="row">
                 <div class="col-lg-6">

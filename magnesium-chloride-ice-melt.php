@@ -89,7 +89,7 @@
 
         <hr class="dropdown-divider">
         <div class="mx-4 my-5 ">
-            <h2 class="inn__main-subTitle">Features and Benefits</h2>
+            <h3 class="inn__main-subTitle">Features and Benefits</h3>
 
             <ul>
                 <li> High performance ice melter </li>
@@ -116,7 +116,7 @@
 
         <hr class="dropdown-divider">
         <div class="mx-4 my-5 ">
-            <h2 class="inn__main-subTitle">Safer for People, Pets and the Environment</h2>
+            <h3 class="inn__main-subTitle">Safer for People, Pets and the Environment</h3>
 
             <p>MAG® has a low toxicity level (almost 3 times less toxic than common table salt and 8 times less toxic than calcium chloride) making it a much safer ice melting product to use at home or the workplace. MAG® is available in flake or pellet format and is packaged in easy-to-handle 22.6 kg (50lb) bags as well as 1000 kg (2200 lb) totes for larger applications.</p>
         </div>

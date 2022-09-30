@@ -55,7 +55,7 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Webinars and Training</h2>
+        <h1 class="inn__main-title mx-4">Webinars and Training</h1>
 
         
 
@@ -70,7 +70,7 @@
                         
                     
                     <div class="card-body">
-                        <h3 class="card-title">Dust Control - Best Practices for the Best Results</h3>
+                        <h2 class="card-title">Dust Control - Best Practices for the Best Results</h2>
                         <p class="card-text">Join us for a presentation on the best practices for a successful dust program. Road preparation, products and equipment will all be covered in this comprehensive session along with time for a question and answer period.</p>
                         <a href="https://go.innovativecompany.com/DustControlOD" target="_blank" type="button" class="btn btn-outline-primary inn__main-external">Register now <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
 
@@ -84,7 +84,7 @@
                         alt="Treated Salt">
                 </div>
                     <div class="card-body">
-                        <h3 class="card-title">Treated Salt: an Ice Melting Game Changer</h3>
+                        <h2 class="card-title">Treated Salt: an Ice Melting Game Changer</h2>
                         <p class="card-text">Join us to learn more about why you should be incorporating treated salt into your road maintenance program. Treated salt is more than simply salt with color added. Learn how you can increase your service levels, while achieving environmental benefits and savings, without costly changes to your current vehicle fleet. Start your liquids program with treated salt.</p>
                         <a href="https://go.innovativecompany.com/TreatedSalt" target="_blank" type="button" class="btn btn-outline-primary inn__main-external">Register now <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
 

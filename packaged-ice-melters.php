@@ -54,7 +54,7 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">ProMelt™ Ice Melters & Sidewalk De-icers</h2>
+        <h1 class="inn__main-title mx-4">ProMelt™ Ice Melters & Sidewalk De-icers</h1>
 
         <div class="row mx-4">
             <div class="col-lg-6 mb-5">
@@ -72,7 +72,7 @@
     <div class="container-xl">
 
         <div class="row mx-4">
-        <h2 class="mt-4">Available in the United States</h2>
+        <h2 class="mt-4 inn__main-subTitle">Available in the United States</h2>
                 <div class="card mb-3 border-0">
                     <div class="row g-0">
                         <div class="col-md-4 align-self-center justify-content-center text-center">
@@ -80,7 +80,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">Magic Salt® by ProMelt</h5>
+                                <h3 class="card-title">Magic Salt® by ProMelt</h3>
                                 <p class="card-text">Magic Salt® by ProMelt delivers superior ice melting results at temperatures as low as -25<sup>o</sup>F. Treated with a high performance blend of agricultural enhancers and magnesium chloride, it melts snow and ice fast with long lasting results.</p>
                                 <p class="card-text"><a href="superior-snow-ice-melt.php">Product info</a><i class="fa-solid fa-up-long inn__main-arrow"></i></p>
                             </div>
@@ -90,7 +90,7 @@
 
                 <hr class="dropdown-divider">
 
-                <h2 class="mt-4">Available in Canada</h2>
+                <h2 class="mt-4 inn__main-subTitle">Available in Canada</h2>
 
                 <div class="card mb-3 border-0">
                     <div class="row g-0">
@@ -99,7 +99,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">ProMelt Essential</h5>
+                                <h3 class="card-title">ProMelt Essential</h3>
                                 <p class="card-text">ProMelt Essential works faster than ordinary rock salt and melts snow and ice at temperatures as low as -18<sup>o</sup>C. This 100% natural product is a blend of magnesium chloride, calcium chloride, potassium chloride, sodium chloride and 15 trace minerals in each granule. ProMelt Essential is optimally sized for easy spreading.</p>
                                 <p class="card-text">
                                     <a href="professional-ice-melter.php">Product Info</a><i class="fa-solid fa-up-long inn__main-arrow"></i>
@@ -116,7 +116,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">ProMelt Enhanced</h5>
+                                <h3 class="card-title">ProMelt Enhanced</h3>
                                 <p class="card-text">ProMelt Enhanced delivers superior ice melting results at temperatures as low as -20<sup>o</sup>C. Our natural complex chloride blend is treated with a high performance blend of magnesium chloride and an organic enhancer to deliver better melting results. Helps achieve longer lasting results and is safer for pets, plants and people.</p>
                                 <p class="card-text">
                                     <a href="pet-friendly-ice-melt-ca.php">Product Info</a><i class="fa-solid fa-up-long inn__main-arrow"></i>
@@ -133,7 +133,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">ProMelt Extreme</h5>
+                                <h3 class="card-title">ProMelt Extreme</h3>
                                 <p class="card-text">ProMelt Extreme delivers the fastest ice melting results at temperatures as low as -26<sup>o</sup>C. It is the ideal blend of natural complex chlorides and magnesium chloride pellets. Delivers a long lasting residual effect thereby reducing re-application frequency and is safer for pets, plants and people.</p>
                                 <p class="card-text"><a href="magnesium-chloride-ice-melt-pellets.php">Product info</a><i class="fa-solid fa-up-long inn__main-arrow"></i></p>
                             </div>
@@ -148,7 +148,7 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title">MAG</h5>
+                                <h3 class="card-title">MAG</h3>
                                 <p class="card-text">
                                     MAG is a high performance ice melter that effectively melts snow and ice immediately at temperatures as low as -25<sup>o</sup>C. MAG is less corrosive, less toxic and environmentally safer than salt and calcium chloride ice melters.
                                 </p>

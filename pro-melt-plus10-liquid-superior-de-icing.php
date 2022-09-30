@@ -55,8 +55,7 @@
     </div>
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">ProMelt Plus 10™ - Long Lasting Liquid De-icer
-</h2>
+        <h1 class="inn__main-title mx-4">ProMelt Plus 10™ - Long Lasting Liquid De-icer</h1>
 
         <div class="card mb-3 border-0">
             <div class="row mx-3 g-0">
@@ -78,7 +77,7 @@
 
         <hr class="dropdown-divider">
         <div class="mx-4 my-5 ">
-            <h3 class="inn__main-subTitle">Features and Benefits</h3>
+            <h2 class="inn__main-subTitle">Features and Benefits</h2>
 
             <p>ProMelt Plus 10™ is a liquid de-icer that delivers results at the coldest temperatures. ProMelt Plus 10™ has an extremely low eutectic point of approximately -52<sup>o</sup>C.</p>
             <ul>
@@ -146,7 +145,7 @@
 
             
             <div class="inn__main-spec ">
-            <h3 class="inn__main-subTitle ">Typical Product Application Rates<sup>*</sup></h3>
+            <h2 class="inn__main-subTitle ">Typical Product Application Rates<sup>*</sup></h2>
             <p>ProMelt Plus 10™ is specifically designed for anti-icing, direct application de-icing, frost prevention and pre-wetting of solids.
             Typical liquid application guidelines are:</p>
             <div class="row">
@@ -159,7 +158,7 @@
                         </div>
                         <div class="col-md-10">
                             <div class="card-body">
-                                <h5 class="card-title">Anti-Icing</h5>
+                                <h3 class="card-title">Anti-Icing</h3>
                                 <p class="card-text">Application rates of 40 - 70 litres per lane kilometre are typical. Up to 90 litres per lane kilometre should be considered the maximum in any anti-icing situation.</p>
                             </div>
                         </div>
@@ -173,7 +172,7 @@
                         </div>
                         <div class="col-md-10">
                             <div class="card-body">
-                                <h5 class="card-title">Direct Liquid Application De-Icing</h5>
+                                <h3 class="card-title">Direct Liquid Application De-Icing</h3>
                                 <p class="card-text">Application rates of 90 - 100 litres per lane kilometre.</p>
                             </div>
                         </div>
@@ -189,7 +188,7 @@
                         </div>
                         <div class="col-md-10">
                             <div class="card-body">
-                                <h5 class="card-title">Frost Prevention</h5>
+                                <h3 class="card-title">Frost Prevention</h3>
                                 <p class="card-text">Application rates of 20 - 40 litres per lane kilometre are standard. These rates can vary depending on storm conditions and service level goals.</p>
 
                             </div>
@@ -204,7 +203,7 @@
                         </div>
                         <div class="col-md-10">
                             <div class="card-body">
-                                <h5 class="card-title">Pre-wetting</h5>
+                                <h3 class="card-title">Pre-wetting</h3>
                                 <p class="card-text">Application rates from 20-60 litres per ton of substrate, depending upon the solid used and the performance objective.</p>
 
                             </div>

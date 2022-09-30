@@ -53,7 +53,7 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Green Commitment</h2>
+        <h1 class="inn__main-title mx-4">Green Commitment</h1>
 
         <div class="row mx-4">
             <div class="col mb-5">

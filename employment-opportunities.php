@@ -54,14 +54,14 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Employment Opportunities</h2>
+        <h1 class="inn__main-title mx-4">Employment Opportunities</h1>
 
         <div class="row mx-4">
             
             <p>Innovative Surface Solutions is a company with over 50 employees located and servicing customers throughout the northeastern US and eastern Canada with corporate offices located in Albany, New York and Ajax, Ontario. We specialize in effective, environmentally safer solutions for road safety and maintenance, industrial applications, and agriculture. In our journey of growth, we continue to build upon our most formidable assets: our brands, our financial strengths, our unrivaled distribution system and our strong commitment to our management and employees.</p>
             <p>We are continually on the lookout for outstanding individuals to join our team and believe that the working conditions, wages, and benefits Innovative Surface Solutions offers its employees are competitive with those offered by other employers in this industry.</p>
             <div class="col-lg-8">
-            <h3 class="inn__main-subTitle mt-3 mb-4">Current Job Postings</h3>
+            <h2 class="inn__main-subTitle mt-3 mb-4">Current Job Postings</h2>
             <ul class="list-group">
                 <li class="list-group-item d-flex flex-sm-row flex-column justify-content-between align-items-center">
                 Trailer Mechanic - Glenmont, NY

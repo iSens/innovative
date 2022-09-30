@@ -116,11 +116,11 @@
                 <p>Magic-0 by ProMelt is the multi-functional winter liquid of choice. This blend of premium magnesium chloride and molasses does it all, anti-icing, pre-wetting, pre-treating, and salt brine enhancing.</p>
                     <div class="d-block d-lg-none my-3 inn__main-checkMobile">
                         <span>Eutectic Point<i>-45<sup>o</sup>C -49<sup>o</sup>F</i></span>
-                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Saltbrine Enhancer<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Treated Salt<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>QPL approved<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
+                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Saltbrine Enhancer<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Treated Salt<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>QPL approved<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
                     </div>
                 <p><a href="environmentally-friendly-liquid-deicer.php">Product info</a><i
                         class="fa-solid fa-up-long inn__main-arrow"></i>
@@ -131,27 +131,27 @@
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
         </div>
@@ -165,11 +165,11 @@
                 salt brine.</p>
                     <div class="d-block d-lg-none my-3 inn__main-checkMobile">
                         <span>Eutectic Point<i>-46<sup>o</sup>C -52<sup>o</sup>F</i></span>
-                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Saltbrine Enhancer<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Treated Salt<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>QPL approved<i><img src="./ui/images/x-no.svg" alt=""></i></span>
+                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Saltbrine Enhancer<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Treated Salt<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>QPL approved<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
                     </div>
                 <p><a href="magic-c-environmentally-friendly-liquid-deicer.php">Product info</a><i class="fa-solid fa-up-long inn__main-arrow"></i></p>
             </div>
@@ -178,27 +178,27 @@
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
         </div>
@@ -211,11 +211,11 @@
                 <p>ProMelt Ultra 1000 is a high-performance de-icing liquid made from a refined corn carbohydrate derivative blended with magnesium chloride. It delivers unparalleled performance in colder environments for anti-icing, de-icing and pre-wetting. ProMelt Ultra 1000 pairs perfectly with ProMelt Mag so you can seamlessly move from shoulder season to the coldest temperatures.</p>
                     <div class="d-block d-lg-none my-3 inn__main-checkMobile">
                         <span>Eutectic Point<i>-65<sup>o</sup>C -85<sup>o</sup>F</i></span>
-                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt=""></i></span>
-                        <span>Treated Salt<i><img src="./ui/images/orange-check.svg" alt=""></i></span>
-                        <span>QPL approved<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
+                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
+                        <span>Treated Salt<i><img src="./ui/images/orange-check.svg" alt="Includes feature but is not optimal"></i></span>
+                        <span>QPL approved<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
                     </div>
                 <p><a href="liquid-deicer-anti-icing.php">Product Info</a><i
                         class="fa-solid fa-up-long inn__main-arrow"></i></p>
@@ -226,27 +226,27 @@
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/orange-check.svg" alt="">
+                    <img src="./ui/images/orange-check.svg" alt="Includes feature but is not optimal">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
         </div>
@@ -259,11 +259,11 @@
                 <p>ProMelt Ultra 2000 is a high-performance deicing liquid made from refined corn carbohydrate derivative blended with magnesium chloride. Engineered specifically for stockpile treatments, ProMelt Ultra 2000 allows for the most liquid coating of salt possible without leaching.</p>
                     <div class="d-block d-lg-none my-3 inn__main-checkMobile">
                         <span>Eutectic Point<i>-65<sup>o</sup>C -85<sup>o</sup>F</i></span>
-                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt=""></i></span>
-                        <span>Treated Salt<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>QPL approved<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
+                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
+                        <span>Treated Salt<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>QPL approved<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
                     </div>
                 <p><a href="liquid-deicer-anti-icing-frost-prevention-2000.php">Product Info</a><i
                         class="fa-solid fa-up-long inn__main-arrow"></i></p>
@@ -274,27 +274,27 @@
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
         </div>
@@ -307,10 +307,10 @@
                     yielding improved melting and long lasting performance.</p>
                     <div class="d-block d-lg-none my-3 inn__main-checkMobile">
                         <span>Eutectic Point<i>-32<sup>o</sup>C -27<sup>o</sup>F</i></span>
-                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt=""></i></span>
-                        <span>Treated Salt<i><img src="./ui/images/x-no.svg" alt=""></i></span>
+                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
+                        <span>Treated Salt<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
                         <span>QPL approved<i class="inn__main-asterisk"><img src="./ui/images/check-asterisk.svg" alt=""></i></span>
                     </div>
                 <p><a href="magnesium-chloride-liquid-ice-melt.php">Product info</a><i
@@ -322,22 +322,22 @@
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
@@ -354,11 +354,11 @@
                 <p>High-performance calcium chloride liquid that improves melting on road surfaces, and burns through the hardpack.</p>
                 <div class="d-block d-lg-none my-3 inn__main-checkMobile">
                         <span>Eutectic Point<i>-51<sup>o</sup>C -60<sup>o</sup>F</i></span>
-                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt=""></i></span>
-                        <span>Treated Salt<i><img src="./ui/images/x-no.svg" alt=""></i></span>
-                        <span>QPL approved<i><img src="./ui/images/x-no.svg" alt=""></i></span>
+                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
+                        <span>Treated Salt<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
+                        <span>QPL approved<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
                     </div>
                 <p><a href="calcium-chloride-liquid-ice-melt.php">Product info</a><i
                         class="fa-solid fa-up-long inn__main-arrow"></i></p>
@@ -369,27 +369,27 @@
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
         </div>
@@ -402,11 +402,11 @@
                     capabilities long lasting performance.</p>
                     <div class="d-block d-lg-none my-3 inn__main-checkMobile">
                         <span>Eutectic Point<i>-34<sup>o</sup>C -31<sup>o</sup>F</i></span>
-                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt=""></i></span>
-                        <span>Treated Salt<i><img src="./ui/images/x-no.svg" alt=""></i></span>
-                        <span>QPL approved<i><img src="./ui/images/x-no.svg" alt=""></i></span>
+                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
+                        <span>Treated Salt<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
+                        <span>QPL approved<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
                     </div>
                 <p><a href="pro-melt-plus-high-performance-chlorides-corrosion-inhibitor.php">Product info</a><i class="fa-solid fa-up-long inn__main-arrow"></i></p>
 
@@ -416,27 +416,27 @@
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check fw-bold">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
         </div>
@@ -448,11 +448,11 @@
                 <p>Superior de-icing liquid made from refined corn carbohydrate derivative combined with a premium blend of high-performance chlorides and corrosion inhibitor. Versatile liquid engineered for snow and ice control, delivering exceptional performance in colder environments.</p>
                 <div class="d-block d-lg-none my-3 inn__main-checkMobile">
                         <span>Eutectic Point<i>-52<sup>o</sup>C -60<sup>o</sup>F</i></span>
-                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt=""></i></span>
-                        <span>Treated Salt<i><img src="./ui/images/orange-check.svg" alt=""></i></span>
-                        <span>QPL approved<i><img src="./ui/images/x-no.svg" alt=""></i></span>
+                        <span>Anti-icing<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Pre-Wetting<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
+                        <span>Treated Salt<i><img src="./ui/images/orange-check.svg" alt="Includes feature but is not optimal"></i></span>
+                        <span>QPL approved<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
                     </div>
                 <p><a href="pro-melt-plus10-liquid-superior-de-icing.php">Product info</a><i class="fa-solid fa-up-long inn__main-arrow"></i></p>
 
@@ -462,27 +462,27 @@
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check fw-bold">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/orange-check.svg" alt="">
+                    <img src="./ui/images/orange-check.svg" alt="Includes feature but is not optimal">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
         </div>
@@ -494,11 +494,11 @@
                 <p>Engineered for stockpile treatment to ensure the best possible coating of your stockpile. This OBPE or organic-based performance enhanced blend of refined corn carbohydrate derivative, corrosion inhibitors, and premium high-performance chlorides will maximize the performance.</p>
                 <div class="d-block d-lg-none my-3 inn__main-checkMobile">
                         <span>Eutectic Point<i>-45<sup>o</sup>C -49<sup>o</sup>F</i></span>
-                        <span>Anti-icing<i><img src="./ui/images/x-no.svg" alt=""></i></span>
-                        <span>Pre-Wetting<i><img src="./ui/images/x-no.svg" alt=""></i></span>
-                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt=""></i></span>
-                        <span>Treated Salt<i><img src="./ui/images/blue-check.svg" alt=""></i></span>
-                        <span>QPL approved<i><img src="./ui/images/x-no.svg" alt=""></i></span>
+                        <span>Anti-icing<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
+                        <span>Pre-Wetting<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
+                        <span>Saltbrine Enhancer<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
+                        <span>Treated Salt<i><img src="./ui/images/blue-check.svg" alt="Includes feature"></i></span>
+                        <span>QPL approved<i><img src="./ui/images/x-no.svg" alt="Does not include feature"></i></span>
                     </div>
                 <p><a href="pro-melt-plus20-liquid-superior-de-icing.php">Product info</a><i class="fa-solid fa-up-long inn__main-arrow"></i></p>
 
@@ -508,34 +508,34 @@
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check fw-bold">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
             <div class="col-lg-1 text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/blue-check.svg" alt="">
+                    <img src="./ui/images/blue-check.svg" alt="Includes feature">
                 </span>
             </div>
             <div class="col-lg-1 bg-gray text-center d-none d-lg-inline">
                 <span class="check">
-                    <img src="./ui/images/x-no.svg" alt="">
+                    <img src="./ui/images/x-no.svg" alt="Does not include feature">
                 </span>
             </div>
         </div>
         <div class="inn__main-checks px-3">
-            <span><img src="./ui/images/blue-check.svg" alt=""> Includes feature</span>
-            <span><img src="./ui/images/orange-check.svg" alt=""> Includes feature but is not optimal</span>
-            <span><img src="./ui/images/x-no.svg" alt=""> Does not include feature</span>
+            <span><img src="./ui/images/blue-check.svg" alt="Includes feature"> Includes feature</span>
+            <span><img src="./ui/images/orange-check.svg" alt="Includes feature but is not optimal"> Includes feature but is not optimal</span>
+            <span><img src="./ui/images/x-no.svg" alt="Does not include feature"> Does not include feature</span>
     
         </div>
         <p class="px-3"><sup>*</sup> ProMelt Magnesium with Inhibitor is QPL approved.</p>

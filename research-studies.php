@@ -55,7 +55,7 @@
 
 
     <div class="container-xl">
-        <h2 class="inn__main-title mx-4">Case Studies</h2>
+        <h1 class="inn__main-title mx-4">Case Studies</h1>
 
         <div class="row mx-4">
         <div class="col-lg-4">
@@ -64,7 +64,7 @@
                         alt="ProMelt Magnesium Chloride">
                     
                     <div class="card-body">
-                        <h3 class="card-title">ProMelt Magnesium Chloride</h3>
+                        <h2 class="card-title">ProMelt Magnesium Chloride</h2>
                         <p class="card-text">New Bedford uses ProMelt Magnesium Chloride and reaps the benefits.</p>
                         <a href="https://turnto10.com/news/local/new-bedford-uses-magnesium-chloride-treatment-during-storm" target="_blank" type="button" class="btn btn-outline-primary inn__main-external">Watch <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
 
@@ -77,7 +77,7 @@
                         alt="ProMelt Liquid De-icers">
                     
                     <div class="card-body">
-                        <h3 class="card-title">ProMelt Liquid De-icers</h3>
+                        <h2 class="card-title">ProMelt Liquid De-icers</h2>
                         <p class="card-text">Used for anti-icing, Enhancing Salt Brine and Treating Salt.</p>
                         <a href="https://www.youtube.com/watch?v=qEfSo9UCTEo" target="_blank" type="button" class="btn btn-outline-primary inn__main-external">Watch <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
 
@@ -90,7 +90,7 @@
                         alt="Treated Salt Success Story">
                     
                     <div class="card-body">
-                        <h3 class="card-title">Treated Salt Success Story</h3>
+                        <h2 class="card-title">Treated Salt Success Story</h2>
                         <p class="card-text">City of Rutland, VT.</p>
                         <br />
                         <a href="https://www.youtube.com/watch?v=WVtKJGQ-wjY" target="_blank" type="button" class="btn btn-outline-primary inn__main-external">Watch <i class="fa-solid fa-arrow-up-right-from-square"></i></a>
@@ -100,14 +100,14 @@
             </div>
 
             <hr class="dropdown-divider mt-5">
-            <h2 class="inn__main-title">Research Studies</h2>
+            <h1 class="inn__main-title">Research Studies</h1>
             <div class="col-lg-4">
                 <div class="card  inn__main-case">
                         <img src="./ui/images/research-study-1@2x.webp" class="card-img-top"
                         alt="Clear Roads Research Brief ">
                     
                     <div class="card-body">
-                        <h3 class="card-title">Clear Roads Research Brief </h3>
+                        <h2 class="card-title">Clear Roads Research Brief </h2>
                         <p class="card-text">AG-based de-icers effective at cold temperatures.</p>
                         <br />
                         <a href="documents/clear-roads-brief.pdf" target="_blank" type="button" class="btn btn-outline-primary inn__main-pdfBtn"><i class="fa-regular fa-file-pdf"></i>Read More</a>
@@ -121,7 +121,7 @@
                         alt="Clear Roads Research Brief">
                     
                     <div class="card-body">
-                        <h3 class="card-title">Clear Roads Research Brief</h3>
+                        <h2 class="card-title">Clear Roads Research Brief</h2>
                         <p class="card-text">Understanding the Effectiveness of Non-Chloride Liquid Agricultural By-Products and Solid Complex Chloride/Mineral Products</p>
                         <a href="documents/FR_CR-13-02_Nov15_AT2.pdf" target="_blank" type="button" class="btn btn-outline-primary inn__main-pdfBtn"><i class="fa-regular fa-file-pdf"></i>Read More</a>
 
