@@ -119,6 +119,15 @@
     </div>
 
     <?php include_once("./includs/footer.php") ?>
+<script type="application/ld+json">
+    {"@context":"https://schema.org",
+    "@type":"WebPage",
+    "url":"https://www.innovativecompany.com/magnesium-chloride.php",
+    "name":"Magnesium Chloride Supplier | Innovative Surface Solutions",
+    "description":"Innovative Surface Solutions is a leading supplier of bulk Magnesium Chloride in Canada. Contact us today!",
+    "publisher":{"@type":"Organization","name":"Innovative Surface Solutions"},
+    "keywords":"Magnesium Chloride Supplier, Magnesium Chloride Bulk Suppliers"}
+</script>
 
     
 </body>

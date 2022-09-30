@@ -108,7 +108,15 @@
     </div>
 
     <?php include_once("./includs/footer.php") ?>
-
+<script type="application/ld+json">
+    {"@context":"https://schema.org",
+    "@type":"WebPage",
+    "url":"https://www.innovativecompany.com/dust-control-solutions.php",
+    "name":"Dust Control and Road Stabilization Solutions",
+    "description":"Innovative Surface Solutions specializes in the supply of both magnesium chloride and calcium chloride for dust control and road stabilization.",
+    "publisher":{"@type":"Organization","name":"Innovative Surface Solutions"},
+    "keywords":"Dust Control Solutions, Road Stabilization Products, Construction Dust Control Products, Road Stabilization Solutions"}
+</script>
     
 </body>
 

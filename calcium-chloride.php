@@ -106,7 +106,15 @@
     </div>
 
     <?php include_once("./includs/footer.php") ?>
-
+<script type="application/ld+json">
+    {"@context":"https://schema.org",
+    "@type":"WebPage",
+    "url":"https://www.innovativecompany.com/calcium-chloride.php",
+    "name":"Calcium Chloride Supplier | Innovative Surface Solutions",
+    "description":"Innovative Surface Solutions is one of the prominent suppliers of Calcium Chloride in Canada and the USA. Contact us today to get the best deal!",
+    "publisher":{"@type":"Organization","name":"Innovative Surface Solutions"},
+    "keywords":"Calcium Chloride Supplier, Calcium Chloride Bulk Suppliers"}
+</script>
     
 </body>
 

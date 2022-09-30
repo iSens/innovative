@@ -113,7 +113,15 @@
     </div>
 
     <?php include_once("./includs/footer.php") ?>
-
+<script type="application/ld+json">
+    {"@context":"https://schema.org",
+    "@type":"WebPage",
+    "url":"https://www.innovativecompany.com/agricultural-sol.php",
+    "name":"Agriculture Solutions | Innovative Surface Solutions",
+    "description":"Innovative Surface Solutions offers excellent agriculture solutions. Our ProGuard MAG-AG product is the most readily available sources of magnesium for crops.",
+    "publisher":{"@type":"Organization","name":"Innovative Surface Solutions"},
+    "keywords":"Innovative Agricultural Solutions, Agriculture Solutions"}
+</script>
 
 </body>
 

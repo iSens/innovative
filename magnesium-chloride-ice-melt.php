@@ -142,7 +142,15 @@
     </div>
 
     <?php include_once("./includs/footer.php") ?>
-
+<script type="application/ld+json">
+    {"@context":"https://schema.org",
+    "@type":"WebPage",
+    "url":"https://www.innovativecompany.com/magnesium-chloride-ice-melt.php",
+    "name":"Magnesium Chloride Ice Melt | MAG Ice Melting Pellets",
+    "description":"MAG - a high performance magnesium chloride ice melt that melts snow and ice immediately at temperatures as low as -25C and is less corrosive, less toxic!",
+    "publisher":{"@type":"Organization","name":"Innovative Surface Solutions"},
+    "keywords":"Magnesium Chloride Ice Melter, Magnesium Chloride Ice Melt"}
+</script>
     
 </body>
 

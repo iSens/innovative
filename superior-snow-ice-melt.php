@@ -141,7 +141,15 @@
     </div>
 
     <?php include_once("./includs/footer.php") ?>
-
+<script type="application/ld+json">
+    {"@context":"https://schema.org",
+    "@type":"WebPage",
+    "url":"https://www.innovativecompany.com/superior-snow-ice-melt.php",
+    "name":"Magic Salt | Liquid Coated Ice Melt | Quick Clean Ice Melter",
+    "description":"Liquid Coated Ice Melt - Magic Salt® by ProMelt delivers superior ice melting results at temperatures as low as -25F with longer lasting results.",
+    "publisher":{"@type":"Organization","name":"Innovative Surface Solutions"},
+    "keywords":"Liquid Coated Ice Melt, Quick Clean Ice Melter"}
+</script>
     
 </body>
 

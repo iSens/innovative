@@ -99,7 +99,15 @@
     </div>
 
     <?php include_once("./includs/footer.php") ?>
-
+ <script type="application/ld+json">
+    {"@context":"https://schema.org",
+    "@type":"WebPage",
+    "url":"https://www.innovativecompany.com/pro-patch.php",
+    "name":"Cold Patch Asphalt Repair Products and Solutions | Parking Lot Repair",
+    "description":"Our Cold Patch Asphalt Repair Product is designed to remain workable at sub-zero temperatures. It is very effective for permanent pothole and parking lot repairs.",
+    "publisher":{"@type":"Organization","name":"Innovative Surface Solutions"},
+    "keywords":"Cold Patch Asphalt Repair, Asphalt Repair Products, Parking Lot Repair, Permanent Pothole Repair, Asphalt Repair Solutions"}
+</script>
 
 </body>
 

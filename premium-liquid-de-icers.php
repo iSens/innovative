@@ -542,7 +542,15 @@
     </div>
 
     <?php include_once("./includs/footer.php") ?>
-
+<script type="application/ld+json">
+    {"@context":"https://schema.org",
+    "@type":"WebPage",
+    "url":"https://www.innovativecompany.com/premium-liquid-de-icers.php",
+    "name":"Liquid Deicer For Roads and Sidewalks | Salt Brine Enhancer",
+    "description":"Innovative Surface Solutions offers premium liquid deicers for roads and sidewalks, and salt brine enhancers for state, municipal and contractors in Canada and the USA.",
+    "publisher":{"@type":"Organization","name":"Innovative Surface Solutions"},
+    "keywords":"Deicer For Roads, Liquid Deicer For Roads, Liquid Deicer For Sidewalks, Salt Brine Enhancer"}
+</script>
     
 </body>
 

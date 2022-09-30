@@ -220,6 +220,16 @@
             </div>
         </div>
     </div>
+
+<script type="application/ld+json">
+    {"@context":"https://schema.org",
+    "@type":"WebPage",
+    "url":"https://www.innovativecompany.com/",
+    "name":"Commercial Deicer, Road Maintenance Solutions | Innovative Surface Solutions",
+    "description":"Innovative Surface Solutions provides environmentally friendly road maintenance solutions. Offering a range of commercial liquid deicers in the US and Canada.",
+    "publisher":{"@type":"Organization","name":"Innovative Surface Solutions"},
+    "keywords":"Road Maintenance Solutions, Commercial Liquid Deicer, Commercial Deicer"}
+</script>
 </body>
 
 </html>

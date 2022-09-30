@@ -202,7 +202,15 @@
     </div>
 
     <?php include_once("./includs/footer.php") ?>
-
+<script type="application/ld+json">
+    {"@context":"https://schema.org",
+    "@type":"WebPage",
+    "url":"https://www.innovativecompany.com/magnesium-chloride-dust-control.php",
+    "name":"Magnesium Chloride Dust Control | Gravel Road Stabilization",
+    "description":"ProGuard™ magnesium chloride dust control and road stabilization products are designed to extend the life of gravel roads and surfaces. Get yours today!",
+    "publisher":{"@type":"Organization","name":"Innovative Surface Solutions"},
+    "keywords":"Magnesium Chloride Dust Control, Gravel Road Stabilization"}
+</script>
     
 </body>
 

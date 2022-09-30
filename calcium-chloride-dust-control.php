@@ -191,7 +191,15 @@
     </div>
 
     <?php include_once("./includs/footer.php") ?>
-
+<script type="application/ld+json">
+    {"@context":"https://schema.org",
+    "@type":"WebPage",
+    "url":"https://www.innovativecompany.com/calcium-chloride-dust-control.php",
+    "name":"Calcium Chloride Dust Control and Road Stabilization",
+    "description":"ProGuard™ calcium chloride dust control and road stabilization products are designed to extend the life of gravel roads and surfaces. Contact us today!",
+    "publisher":{"@type":"Organization","name":"Innovative Surface Solutions"},
+    "keywords":"Calcium Chloride Dust Control, Calcium Chloride Road Stabilization"}
+</script>
     
 </body>
 
